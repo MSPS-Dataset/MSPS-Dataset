@@ -47,6 +47,4 @@ We express our gratitude to the collaborating PV cell production enterprises and
 
 If you use the MSPS dataset in your research, please cite this document as your source and refer to the accompanying research paper for detailed methodology and insights.
 
----
 
-*Note: Replace placeholders like 'link-to-figure-4' with the actual links or references in your repository.*

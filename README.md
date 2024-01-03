@@ -41,7 +41,7 @@ Google drive：
 Baidu drive：
 .............................
 ## Figure Reference
-![image](https://github.com/MSPS-Dataset/MSPS-Dataset/blob/main/MSPS_00.jpg)
+![image](https://github.com/MSPS-Dataset/MSPS-Dataset/blob/main/MSPS.jpg)
 
 
 ## Acknowledgements

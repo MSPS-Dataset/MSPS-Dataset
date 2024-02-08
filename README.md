@@ -2,10 +2,6 @@
 
 ## Introduction
 
-In collaboration with PV cell production enterprises, this dataset adopts Short-Wave Infrared (SWIR) technology for Electroluminescence (EL) imaging of PV cells to ensure high sensitivity and resolution. This collection, derived from actual production environments of PV cells, is vital for understanding and improving the quality and performance of solar technology.
-
-## Methodology
-
 ### Data Collection
 - **Environment**: Actual production settings of monocrystalline silicon PV cells.
 

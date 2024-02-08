@@ -11,14 +11,13 @@ In collaboration with PV cell production enterprises, this dataset adopts Short-
 
 
 ### Dataset Composition
-- **MSPS Dataset**: Contains 1,500 representative images of monocrystalline silicon PV cell defects.
+- **MSPS Dataset**: It encompasses 1,500 distinctive images showcasing defects in monocrystalline silicon PV cells.
 - **Resolution**: Each image is 640 x 590 pixels.
-- **Defect Types**: Includes busbar breaks, black spots, cracks, and more, with a focus on challenging characteristics like minute size, multi-scale, and low contrast.
 - **Allocation**:
   - **Training Images**: 1,000
   - **Testing Images**: 500
   - Ensures a diverse distribution of defects and challenges.
-- **Annotation**: Each image is independently annotated by two experts, with a third expert resolving any discrepancies.
+- **Annotation**: Each image within the dataset is meticulously annotated by two independent experts. Should there be any disagreement between their assessments, a third expert steps in to resolve the discrepancy, ensuring the highest level of accuracy and reliability in the annotations.
 
 ## Objectives
 

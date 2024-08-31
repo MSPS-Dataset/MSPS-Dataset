@@ -1,4 +1,4 @@
-# MSPS Dataset: Monocrystalline Silicon PV Cell Defects Segmentation Dataset
+# MSPS Dataset
 
 ## Introduction
 
